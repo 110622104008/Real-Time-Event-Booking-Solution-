@@ -1,8 +1,8 @@
-# Tixly
+# flight booking
 
 ## Event Ticket Booking App
 
-**Tixly** is an event ticket booking app designed to simplify the process of attending live concerts and games. Users can easily browse events, purchase tickets, and even resell their tickets by putting them on sale. Event organizers can create and manage events to sell tickets seamlessly through the platform, ensuring an all-in-one solution for both buyers and sellers.
+**flight booking** is an event ticket booking app designed to simplify the process of attending live concerts and games. Users can easily browse events, purchase tickets, and even resell their tickets by putting them on sale. Event organizers can create and manage events to sell tickets seamlessly through the platform, ensuring an all-in-one solution for both buyers and sellers.
 
 ### Built With
 
